@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-🔭 Actualmente estoy trabajando en AWS, Vue3 Quasar, Django, Node.js, Sql Server
+🔭 Actualmente estoy trabajando en AWS, Vue3 Quasar, Django, Node.js, Sql Server y FireBase
 
 ☁️ Tengo un gran interés en la computación en la nube. Por lo tanto, estoy aprendiendo AWS
 
@@ -75,7 +75,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,firebase,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,quasar,c,cpp,css,discord,docker,dynamodb,firebase,github,html,java,js,kotlin,firebase,linux,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
