@@ -75,7 +75,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,quasar,c,cpp,css,discord,docker,dynamodb,firebase,github,html,java,js,kotlin,firebase,linux,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,vue,c,cpp,css,discord,docker,dynamodb,firebase,github,html,java,js,kotlin,firebase,linux,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
