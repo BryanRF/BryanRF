@@ -1,77 +1,62 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# ¡Hola, soy Brayan Rojas Freyre! 👋
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Brayan</h1></summary>
-  </ul>
-</div>
+## 💻 Ingeniero de Sistemas | 🚀 Desarrollador de Software | 🔍 Investigador
 
+Bienvenido a mi espacio en GitHub. Soy un apasionado ingeniero de sistemas peruano con 2 años de experiencia en el desarrollo de soluciones tecnológicas innovadoras.
 
-<!--- snake 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
--->
+### 🛠 Tecnologías y Herramientas
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">La confusión es parte de la programación</h2></summary>
-  </ul>
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### 🌟 Proyectos Destacados
 
-<!--Intro start-->
-🔭 Actualmente estoy trabajando en AWS, Vue3 Quasar, Django, Node.js, Sql Server y FireBase
+1. **Sistema de Gestión de Inventario**
+   - Aplicación web para el manejo eficiente de inventarios en tiempo real.
+   - Tecnologías: React, Node.js, MongoDB
 
-☁️ Tengo un gran interés en la computación en la nube. Por lo tanto, estoy aprendiendo AWS
+2. **App de Reconocimiento Facial**
+   - Aplicación móvil que utiliza IA para el reconocimiento facial en tiempo real.
+   - Tecnologías: Flutter, TensorFlow, Firebase
 
-📫 No dudes en contactarme en rfreyrebrayaned@gmail.com
+3. **Plataforma de E-learning**
+   - Sistema de gestión de aprendizaje con funcionalidades avanzadas de seguimiento.
+   - Tecnologías: Vue.js, Django, PostgreSQL
 
+### 📊 Estadísticas de GitHub
 
-<!--Intro end-->
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BryanRF&show_icons=true&theme=radical)
 
+### 🌱 Actualmente estoy aprendiendo
 
+- Inteligencia Artificial y Aprendizaje Automático
+- Arquitecturas de Microservicios
+- Desarrollo de Blockchain
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=BryanRF&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanRF&theme=dark&hide_border=false" /> 
-</td>
+### 👯 Busco colaborar en
 
-<td width="50%" align="center">
+- Proyectos de código abierto
+- Soluciones innovadoras para problemas sociales
+- Investigaciones en el campo de la tecnología
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BryanRF&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+### 📫 Cómo contactarme
 
-<!--- trophy (start) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/tu-usuario)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 
-<!--- trophy (start) -->
+### ⚡ Dato curioso
 
+Además de codificar, soy un ávido lector de ciencia ficción y un gamer entusiasta. Creo firmemente que el potencial humano es infinito, y la tecnología es la herramienta para desbloquearlo.
 
-</p>        
-<!--- stats (end) -->
+---
 
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+💡 *"La innovación distingue a los líderes de los seguidores." - Steve Jobs*
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -80,19 +65,7 @@
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conectate conmigo🤝</h2></summary>
-  </ul>
-</div>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/brayan-eduardo-rojas-freyre-41255414a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  
-</p>
 
 
 
