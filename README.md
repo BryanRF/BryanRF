@@ -1,8 +1,7 @@
 # ¡Hola, soy Brayan Rojas Freyre! 👋
 
-## 💻 Ingeniero de Sistemas | 🚀 Desarrollador de Software | 🔍 Investigador
-
-Bienvenido a mi espacio en GitHub. Soy un apasionado ingeniero de sistemas peruano con 2 años de experiencia en el desarrollo de soluciones tecnológicas innovadoras.
+## 💻 Ingeniero de Sistemas | 🚀 Desarrollador de Software 
+Bienvenido a mi espacio en GitHub. Soy un apasionado ingeniero de sistemas con 2 años de experiencia en el desarrollo de soluciones tecnológicas innovadoras.
 
 ### 🛠 Tecnologías y Herramientas
 
