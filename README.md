@@ -45,9 +45,9 @@ Bienvenido a mi espacio en GitHub. Soy un apasionado ingeniero de sistemas con 2
 
 ### 📫 Cómo contactarme
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/brayan-eduardo-rojas-freyre-41255414a/))
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rfreyrebrayaned@gmail.com)
 
 ### ⚡ Dato curioso
 
