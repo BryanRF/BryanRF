@@ -1,99 +1,113 @@
-# 👋 Hola, soy Brayan Rojas Freyre  
 
-## 🎨 Frontend Developer | 💻 Ingeniero de Sistemas  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E9BF7&center=true&vCenter=true&width=500&lines=Brayan+Rojas+Freyre;Tech+Lead+%26+Full+Stack;Ingeniero+de+Sistemas;Mobile+%26+Cloud+Architect" alt="Typing SVG" />
+  </a>
+</div>
 
-Soy **Ingeniero de Sistemas** con más de **5 años de experiencia** en el desarrollo de interfaces web modernas, accesibles y de alto rendimiento.  
-Me especializo en **Frontend**, creando experiencias de usuario intuitivas y escalables con tecnologías modernas del ecosistema JavaScript.
+<div align="center">
+  
+  ![Bachiller](https://img.shields.io/badge/Grado-Bachiller%20Ing.%20Sistemas-blue?style=for-the-badge&logo=university)
+  ![Experience](https://img.shields.io/badge/Experiencia-5%2B%20Años-success?style=for-the-badge&logo=codepen)
+  ![Focus](https://img.shields.io/badge/Enfoque-Clean%20Architecture-blueviolet?style=for-the-badge&logo=expertsexchange)
 
-🚀 Apasionado por el diseño limpio, el rendimiento web y la mejora continua.
+  <br/>
+  
+  <p align="center">
+    Soy <strong>Líder Técnico</strong> y <strong>Desarrollador Full Stack</strong> apasionado por construir ecosistemas digitales escalables. <br/>
+    Combino la precisión de la ingeniería de sistemas con la creatividad del desarrollo de producto. <br/>
+    Especialista en arquitecturas limpias, desarrollo móvil multiplataforma e integración de IA.
+  </p>
 
----
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-rojas-freyre-48933834a)
+  [![Portfolio](https://img.shields.io/badge/Web-Portfolio-ff69b4?style=flat-square&logo=dribbble&logoColor=white)](https://bryanrf.github.io)
+  [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rfreyrebrayaned@gmail.com)
 
-## 🛠️ Tecnologías & Herramientas
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### ⚛️ Frameworks & Librerías
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### 🧰 Otras herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🛠️ Arsenal Tecnológico
 
-### 🗂 Sistema de Gestión de Inventario
-Aplicación web enfocada en la usabilidad y eficiencia para la gestión de inventarios en tiempo real.
+No solo escribo código, diseño soluciones. Aquí está mi stack principal:
 
-**Tecnologías:** React, Tailwind CSS, Node.js, MongoDB  
-🔹 Diseño responsive  
-🔹 Componentes reutilizables  
-🔹 Manejo de estados y consumo de API REST  
+<div align="center">
+
+### 📱 Mobile & Core
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🚀 Backend & API
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java Spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=green)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧠 AI & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+
+</div>
 
 ---
 
-### 🎓 Plataforma E-learning
-Sistema de aprendizaje online con seguimiento de progreso y panel de usuario intuitivo.
+## 🌟 Proyectos de Ingeniería & Arquitectura
 
-**Tecnologías:** Vue.js, Django, PostgreSQL  
-🔹 UX optimizada  
-🔹 Dashboard interactivo  
-🔹 Buenas prácticas de UI/UX  
+### 🔐 MEMORY - Secure Personal Management (Mobile)
+*Arquitectura de Software Avanzada & Seguridad*
+Una aplicación offline-first diseñada bajo **Clean Architecture** (Domain, Data, Presentation) y principios SOLID.
+- **Tech:** Flutter, Riverpod, SQLite, Cifrado AES-256 (PBKDF2).
+- **Key Features:** Event-Driven Architecture, Autenticación biométrica, 100% Null-safety, Sistema de transacciones ACID.
 
----
+### 🤖 AI Social Platform & Content Moderation
+*Sistema Multiplataforma & Inteligencia Artificial*
+Red social escalable con agentes de IA integrados para moderación y soporte.
+- **Tech:** NestJS (Backend), Flutter (Mobile), Python (AI/ML).
+- **Key Features:** Detección de contenido sensible con OpenCV/TensorFlow, comunicación en tiempo real (WebSockets), algoritmos de recomendación personalizados.
 
-### 🤖 App con Reconocimiento Facial
-Aplicación móvil con enfoque en interacción visual y experiencia de usuario.
-
-**Tecnologías:** Flutter, Firebase  
-🔹 Interfaces limpias  
-🔹 Integración con servicios externos  
+### 🏢 Enterprise Resource Planning (ERP) Cloud
+*Sistemas Distribuidos & Cloud Computing*
+Sistema administrativo integral para gestión de RRHH y ventas con alta disponibilidad.
+- **Tech:** Laravel, Spring Boot, AWS (S3, DynamoDB).
+- **Key Features:** Microservicios, despliegue en Linux, integración de APIs RESTful seguras y optimización de rendimiento en producción.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanRF&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanRF&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="BryanRF's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanRF&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150"/>
+</div>
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 👨‍💻 Filosofía de Trabajo
 
-- ⚛️ React avanzado y patrones de diseño
-- 🧠 Optimización de rendimiento en Frontend
-- 🎨 UX / UI y accesibilidad web (WCAG)
-- 🧩 Arquitecturas Frontend escalables
+> *"El código limpio siempre parece que ha sido escrito por alguien a quien le importa."*
 
----
-
-## 👯‍♂️ Busco colaborar en
-
-- Proyectos **Frontend** y Open Source  
-- Aplicaciones web con impacto real  
-- Equipos donde se valore la calidad visual y la experiencia de usuario  
+Como **Líder Técnico**, mi enfoque va más allá de escribir líneas de código:
+* 📚 **Mentoría:** Impulso el crecimiento de desarrolladores Junior.
+* 🏗 **Arquitectura:** Diseño sistemas pensados para escalar y ser mantenibles (Clean Code, MVVM).
+* 🔄 **Agile:** Transformo requerimientos complejos en entregables claros.
 
 ---
 
-## 📫 Contacto
+<div align="center">
+  <a href="mailto:rfreyrebrayaned@gmail.com">
+    <img src="https://img.shields.io/badge/¿Hablamos_de_tu_próximo_proyecto?-Contactame_aquí-2E9BF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-eduardo-rojas-freyre-41255414a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rfreyrebrayaned@gmail.com)
+```
 
----
-
-## ⚡ Dato curioso
-
-📚 Amante de la ciencia ficción y 🎮 gamer en mis tiempos libres.  
-Creo firmemente que **una buena interfaz puede cambiar por completo la experiencia de un usuario**.
-
-> 💡 *"La simplicidad es la máxima sofisticación." – Leonardo da Vinci*
