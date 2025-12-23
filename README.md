@@ -2,7 +2,7 @@
 
 ## 🎨 Frontend Developer | 💻 Ingeniero de Sistemas  
 
-Soy **Ingeniero de Sistemas** con más de **2 años de experiencia** en el desarrollo de interfaces web modernas, accesibles y de alto rendimiento.  
+Soy **Ingeniero de Sistemas** con más de **5 años de experiencia** en el desarrollo de interfaces web modernas, accesibles y de alto rendimiento.  
 Me especializo en **Frontend**, creando experiencias de usuario intuitivas y escalables con tecnologías modernas del ecosistema JavaScript.
 
 🚀 Apasionado por el diseño limpio, el rendimiento web y la mejora continua.
