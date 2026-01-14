@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Brayan%20Rojas&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20%7C%20Frontend%20Dev%20%7C%20Mentor&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Brayan%20Rojas&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20de%20Sistemas%20%7C%20Frontend%20Dev&descAlignY=55&descAlign=50" alt="Header" />
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Creando+interfaces+modernas+y+accesibles.;Ingeniero+de+Sistemas+con+pasión+por+enseñar.;Frontend+Developer+%7C+React+%26+Vue+lover.;Siempre+buscando+la+mejora+continua." alt="Typing SVG" />
